@@ -1,3 +1,3 @@
-web: gunicorn scriptsid:app
+web: gunicorn main:app
 
 
