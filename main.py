@@ -1,6 +1,5 @@
 #As I said the first line you are importing the (Flask class object) from the flask library.
 from flask import Flask, render_template  
-
 import movies_tra
 
 #you are instantiating that class that object.

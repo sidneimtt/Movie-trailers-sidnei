@@ -1,0 +1,72 @@
+        body {
+            padding-top: 90px;
+        }
+        #trailer .modal-dialog {
+            margin-top: 200px;
+            width: 640px;
+            height: 480px;
+        }
+        .hanging-close {
+            position: absolute;
+            top: -12px;
+            right: -12px;
+            z-index: 9001;
+        }
+        #trailer-video {
+            width: 115%;
+            height: 115%;
+        }
+        .movie-tile {
+            margin-bottom: 20px;
+            padding-top: 20px;
+        }
+        .movie-tile:hover {
+            background-color: #EEE;
+            cursor: pointer;
+        }
+        .scale-media {
+            padding-bottom: 56.25%;
+            position: relative;
+        }
+        .scale-media iframe {
+            border: none;
+            height: 100%;
+            position: absolute;
+            width: 100%;
+            left: 0;
+            top: 0;
+            background-color: blue;
+        }
+        .imagen_carousel {
+              width: 600px;
+              height: 300px;
+        }
+       h2 {
+          color: Yellow;
+          text-align: center;
+          text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+       }
+        .description {
+          background-color: black;
+          color: white;
+          font-size: 20px;
+          font-family: Helvetica;
+          text-align: left;
+          padding: 20px;          
+       }
+        .description_N {
+          background-color: red;
+          color: white;
+          font-size: 30px;
+          font-family: Helvetica;
+          text-align: center;
+          padding: 20px;
+          margin: 20px;
+       }
+      .text_N1 {
+          color: yellow;
+          font-size: 17px;
+          font-family: Helvetica;
+          text-align: center;          
+       }
+
